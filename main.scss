@@ -1,0 +1,195 @@
+body {
+    margin: 0;
+    padding: 0;
+    // background: linear-gradient(135deg, red, blue);
+    background: blueviolet;
+    h1{
+        margin-left: 36%;
+       
+    
+    }.corps{
+        background-color: #860004;
+        width: 30%;
+        // min-width: 400px;
+        height: 94vh;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .flexer {
+        display: flex;
+    }
+    .reponse-contenu {
+        box-sizing: border-box;
+        width: 100%;
+        height: 10%;
+        
+    }
+
+    .case-reponse {
+        width: 70%;
+        height: 100%;
+
+    }
+    .btn {
+        box-shadow: 3px 3px #ac0328b4;
+        cursor: pointer;
+        
+    }
+    .btn:hover {
+        border: 1px solid white;
+    }
+    .reponse {
+        width: 85%;
+        height: 80%;
+        border: 1px solid black;
+        margin: 7px auto;
+        background: linear-gradient(#ff0000e5, #ac0328b4);
+        border: none;
+        // margin-bottom: 10px;
+        // box-shadow: 2px 0px 4px black;
+    }
+    
+    .rond-reponse {
+        
+        width: 24%;
+        height: 95%;
+        border: 1px solid white;
+        border-radius: 50%;
+        margin-left: 2%;
+        background: grey;
+        cursor: pointer;
+       
+
+    }
+    .mister {
+        margin-left: 45%;
+    }
+    .btn{
+        width: 80%;
+        height: 80%;
+        background: linear-gradient(135deg, red, blue);
+        margin:  auto;
+
+    }
+    .texte {
+        margin: 7px;
+        // border-radius: 200px;
+    }
+    .boutton-contenu{
+        width: 30%;
+        height: 100%;
+        // border: 1px solid black;
+    }
+    .joueur-contenu{
+        // box-sizing: border-box;
+        width: 100%;
+        height: 80%;
+        // border: 1px solid black;
+    }
+
+    .ranger-row {
+        // box-sizing: border-box;
+        width: 100%;
+        height: 10%;
+        // border-bottom: 1px solid black;
+    
+    }
+    .pilesrond {
+        height: 100%;
+        width: 70%;
+        // border: 1px solid white;
+        padding: 0 5%;
+    }
+    .rond {
+        width: 24%;
+        height: 95%;
+        border: 1px solid white;
+        border-radius: 50%;
+        margin-left: 2%;
+        background: linear-gradient(#7a042786, red);
+        cursor: pointer;
+        
+    }
+    .rond-grey {
+            background-color: black;
+            width: 24%;
+            height: 95%;
+            border-radius: 50%;
+            margin-left: 2%;
+            cursor: pointer;
+   
+            p{
+                font-size: 20px;
+                color: white;
+            }
+    } .rond-grey:hover {
+            border: 1px solid white;
+    }
+        
+
+    .rond:hover {
+        border: 1px solid black;
+    }
+
+    .casepetitrond {
+        height: 100%;
+        width: 30%;
+        // border: 1px solid white;
+        flex-wrap: wrap;
+        // padding: 0 5%;
+        
+
+    }
+    .petitrond  {
+        box-sizing: border-box;
+        width: 37%;
+        height: 50%;
+        border: 1px solid black;
+        border-radius: 50%;
+        margin-left: 5%;
+        background: linear-gradient(red, #000066);
+        
+    }
+    .petitrond:hover{
+        border: 1px solid white;
+        cursor: pointer;
+    }
+    .selection-contenu{
+        // box-sizing: border-box;
+        width: 100%;
+        height: 10%;
+        // border: 1px solid black;
+    }
+    .seleccolor {
+        width: 16%;
+        height: 80%;
+        border-radius: 50%;
+        border: 1px solid black;
+
+    }
+    .seleccolor:hover {
+        border: 1px solid white;
+        cursor: pointer;
+    }
+    .red {
+        background: red;
+    }
+    .green {
+        background-color: green;
+    }
+
+    .black {
+        background: black;
+    }
+    .white {
+    background: white;
+}
+    .blue {
+        background: blue;
+    }
+
+    .yellow {
+        background: yellow;
+    }
+
+}
